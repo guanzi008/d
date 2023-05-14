@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Params>
+  <PortType>Usb</PortType>
+  <PeakingTime>12.8</PeakingTime>
+  <FlattopTime>0.4</FlattopTime>
+  <Coarse>12.4X</Coarse>
+  <ResetTime>50μs</ResetTime>
+  <Time>10</Time>
+  <Init>589</Init>
+  <Error>0.5</Error>
+  <FineGain>0.874436358107542</FineGain>
+  <FastThreshold>20</FastThreshold>
+  <TriggerThreshold>50</TriggerThreshold>
+  <PrePoint>0</PrePoint>
+  <LatePoint>0</LatePoint>
+  <BaseLine>Fast</BaseLine>
+  <ChannelStandard>4096</ChannelStandard>
+  <TubeVoltage>40</TubeVoltage>
+  <TubeCurrent>800</TubeCurrent>
+  <SpecLength>2048</SpecLength>
+  <SpecMinRange>25</SpecMinRange>
+  <SpecMaxRange>2033</SpecMaxRange>
+  <SpecInterval>1</SpecInterval>
+  <TestCount>1</TestCount>
+  <DetectorVoltage>225</DetectorVoltage>
+  <DetectorTemp>230</DetectorTemp>
+  <SlowThresholdLow>12</SlowThresholdLow>
+  <SlowThresholdHigh>3960</SlowThresholdHigh>
+  <PileUp>ON</PileUp>
+  <!-- <SavePath>F:\\DigitalPulseAnalyzer\\DATA\\</SavePath> -->
+</Params>
